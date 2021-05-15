@@ -4748,7 +4748,8 @@ Created using IcoMoon - icomoon.io
 
 .dropdown-menu .dropdown-item,
 .bootstrap-select .dropdown-menu.inner li a {
-  font-size: 0.8571em;
+  font-size: 0.99em;
+  -font-size: 0.8571em;
   padding-top: .6rem;
   padding-bottom: .6rem;
   margin-top: 5px;
